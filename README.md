@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chagas, computer science student.
 - 👀 I’m interested in prommaming.
-- 🌱 I’m currently learning react.
+- 🌱 I’m currently learning data analytics.
 
 - 📫 How to reach me for email: francisco_publicidade@yahoo.com.br.
 
